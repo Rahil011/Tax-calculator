@@ -3,8 +3,8 @@ This is a simple web application that calculates tax based on user input. The ta
 
 ## How to Run Locally
 
-1. Clone the repository to your local machine: git clone <repository-url>
-2. Navigate to the project directory: cd <Directory Name>
+1. Clone the repository to your local machine: 
+2. Navigate to the project directory: 
 
 3. Open the `index.html` file in your web browser to view the tax calculator application.
 
